@@ -1,0 +1,4 @@
+django==3.2
+djangorestframework
+djoser
+django-cors-headers
